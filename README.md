@@ -1,2 +1,2 @@
-#MtApp
+#MyApp
 This is myapp
